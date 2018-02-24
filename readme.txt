@@ -1,3 +1,4 @@
 this is test
 Git is distributed version control system
-Git is software
+
+Git is free software distributed under the GPL
